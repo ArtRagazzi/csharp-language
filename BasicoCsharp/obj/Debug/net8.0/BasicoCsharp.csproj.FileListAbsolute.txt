@@ -1,0 +1,14 @@
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/bin/Debug/net8.0/BasicoCsharp
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/bin/Debug/net8.0/BasicoCsharp.deps.json
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/bin/Debug/net8.0/BasicoCsharp.runtimeconfig.json
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/bin/Debug/net8.0/BasicoCsharp.dll
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/bin/Debug/net8.0/BasicoCsharp.pdb
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/BasicoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/BasicoCsharp.AssemblyInfoInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/BasicoCsharp.AssemblyInfo.cs
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/BasicoCsharp.csproj.CoreCompileInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/BasicoCsharp.dll
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/refint/BasicoCsharp.dll
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/BasicoCsharp.pdb
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/BasicoCsharp.genruntimeconfig.cache
+/home/artur/Documentos/CSharp/csharp-language/BasicoCsharp/obj/Debug/net8.0/ref/BasicoCsharp.dll
