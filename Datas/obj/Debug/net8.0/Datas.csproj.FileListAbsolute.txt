@@ -1,0 +1,15 @@
+/home/artur/Documentos/CSharp/csharp-language/Datas/bin/Debug/net8.0/Datas
+/home/artur/Documentos/CSharp/csharp-language/Datas/bin/Debug/net8.0/Datas.deps.json
+/home/artur/Documentos/CSharp/csharp-language/Datas/bin/Debug/net8.0/Datas.runtimeconfig.json
+/home/artur/Documentos/CSharp/csharp-language/Datas/bin/Debug/net8.0/Datas.dll
+/home/artur/Documentos/CSharp/csharp-language/Datas/bin/Debug/net8.0/Datas.pdb
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/Datas.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/Datas.AssemblyInfoInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/Datas.AssemblyInfo.cs
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/Datas.csproj.CoreCompileInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/Datas.sourcelink.json
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/Datas.dll
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/refint/Datas.dll
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/Datas.pdb
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/Datas.genruntimeconfig.cache
+/home/artur/Documentos/CSharp/csharp-language/Datas/obj/Debug/net8.0/ref/Datas.dll
