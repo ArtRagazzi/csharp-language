@@ -84,7 +84,8 @@ namespace ProjetoCalculadora
         {
             return x / y;
         }
-
+ls
+    
         static double raizQuadrada(double x)
         {
             return double.Sqrt(x);

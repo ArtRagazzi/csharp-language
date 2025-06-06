@@ -1,0 +1,15 @@
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/bin/Debug/net8.0/Cronometro
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/bin/Debug/net8.0/Cronometro.deps.json
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/bin/Debug/net8.0/Cronometro.runtimeconfig.json
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/bin/Debug/net8.0/Cronometro.dll
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/bin/Debug/net8.0/Cronometro.pdb
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/Cronometro.AssemblyInfoInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/Cronometro.AssemblyInfo.cs
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/Cronometro.sourcelink.json
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/Cronometro.dll
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/refint/Cronometro.dll
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/Cronometro.pdb
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/Cronometro.genruntimeconfig.cache
+/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/Debug/net8.0/ref/Cronometro.dll

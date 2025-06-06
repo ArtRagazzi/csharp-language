@@ -1,0 +1,15 @@
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/bin/Debug/net8.0/TextEditor
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/TextEditor.sourcelink.json
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
