@@ -1,0 +1,15 @@
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/Moedas.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/Moedas.AssemblyInfoInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/Moedas.AssemblyInfo.cs
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/Moedas.csproj.CoreCompileInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/Moedas.sourcelink.json
+/home/artur/Documentos/CSharp/csharp-language/Moedas/bin/Debug/net8.0/Moedas
+/home/artur/Documentos/CSharp/csharp-language/Moedas/bin/Debug/net8.0/Moedas.deps.json
+/home/artur/Documentos/CSharp/csharp-language/Moedas/bin/Debug/net8.0/Moedas.runtimeconfig.json
+/home/artur/Documentos/CSharp/csharp-language/Moedas/bin/Debug/net8.0/Moedas.dll
+/home/artur/Documentos/CSharp/csharp-language/Moedas/bin/Debug/net8.0/Moedas.pdb
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/Moedas.dll
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/refint/Moedas.dll
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/Moedas.pdb
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/Moedas.genruntimeconfig.cache
+/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/Debug/net8.0/ref/Moedas.dll

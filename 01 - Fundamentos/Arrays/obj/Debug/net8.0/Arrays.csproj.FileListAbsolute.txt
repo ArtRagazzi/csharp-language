@@ -1,0 +1,15 @@
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/artur/Documentos/CSharp/csharp-language/Arrays/bin/Debug/net8.0/Arrays
+/home/artur/Documentos/CSharp/csharp-language/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/artur/Documentos/CSharp/csharp-language/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/artur/Documentos/CSharp/csharp-language/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/artur/Documentos/CSharp/csharp-language/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/Debug/net8.0/ref/Arrays.dll
