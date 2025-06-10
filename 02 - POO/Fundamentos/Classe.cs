@@ -36,8 +36,15 @@
             //Sempre a mesma informação para todos os usuarios
             Settings.API_URL = "1sddsDSd1199dCs9sc";
             Console.WriteLine(Settings.API_URL);
+            Console.WriteLine("------------------- Equals------");
             
-            
+            var pessoaA = new Pessoa(1,"Jose");
+            var pessoaB = new Pessoa(1,"Jose");
+
+            //Sempre False, esta comparando endereço de memoria
+            Console.WriteLine(pessoaA == pessoaB);
+            //Depois de implementar o equals
+            Console.WriteLine(pessoaA.Equals(pessoaB));
 
         }
     }
@@ -122,4 +129,24 @@
     }
     //Nao pode ser Extendida, ja que notification e selada
     //public class Notification2:Notificacao{}
+    public interface IPagamento{
+        DateTime Vencimento {get; set;}
+        void Pagar(double valor);
+
+    }
+
+//Comparator
+    public class Pessoa : IEquatable<Pessoa>{
+        public Pessoa(int id,string name){
+            this.Id = id;
+            this.Nome = name;
+        }
+        public int Id{get;set;}
+        public string Nome{get;set;}
+
+        public bool Equals(Pessoa? other)
+        {
+            return Id==other.Id;
+        }
+    }
 }

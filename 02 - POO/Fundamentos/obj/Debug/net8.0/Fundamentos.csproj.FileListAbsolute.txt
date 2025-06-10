@@ -1,15 +1,30 @@
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\bin\Debug\net8.0\Fundamentos.exe
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\bin\Debug\net8.0\Fundamentos.deps.json
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\bin\Debug\net8.0\Fundamentos.runtimeconfig.json
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\bin\Debug\net8.0\Fundamentos.dll
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\bin\Debug\net8.0\Fundamentos.pdb
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfoInputs.cache
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfo.cs
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\Fundamentos.csproj.CoreCompileInputs.cache
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\Fundamentos.sourcelink.json
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\Fundamentos.dll
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\refint\Fundamentos.dll
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\Fundamentos.pdb
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\Fundamentos.genruntimeconfig.cache
-C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\02 - POO\Fundamentos\obj\Debug\net8.0\ref\Fundamentos.dll
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.exe
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.deps.json
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.dll
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.pdb
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.sourcelink.json
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.dll
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/refint/Fundamentos.dll
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.pdb
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+C:/Users/Artur Ragazzi/Documents/Csharp/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/ref/Fundamentos.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.deps.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/bin/Debug/net8.0/Fundamentos.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.sourcelink.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/refint/Fundamentos.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/Debug/net8.0/ref/Fundamentos.dll

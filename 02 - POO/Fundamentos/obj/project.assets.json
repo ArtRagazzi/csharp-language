@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Artur Ragazzi\\.nuget\\packages\\": {}
+    "/home/oryon-artur/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artur Ragazzi\\Documents\\Csharp\\csharp-language\\02 - POO\\Fundamentos\\Fundamentos.csproj",
+      "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/Fundamentos.csproj",
       "projectName": "Fundamentos",
-      "projectPath": "C:\\Users\\Artur Ragazzi\\Documents\\Csharp\\csharp-language\\02 - POO\\Fundamentos\\Fundamentos.csproj",
-      "packagesPath": "C:\\Users\\Artur Ragazzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artur Ragazzi\\Documents\\Csharp\\csharp-language\\02 - POO\\Fundamentos\\obj\\",
+      "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/Fundamentos.csproj",
+      "packagesPath": "/home/oryon-artur/.nuget/packages/",
+      "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/Fundamentos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Artur Ragazzi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
