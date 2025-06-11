@@ -3,7 +3,7 @@ using ProjetoFinal.ContentContext.Enums;
 namespace ProjetoFinal.ContentContext{
 
     public class Course : Content{
-        public Course(){
+        public Course(string title, string url):base(title,url){
             this.Modules = new List<Module>();
         }
         public string Tag{ get; set; }

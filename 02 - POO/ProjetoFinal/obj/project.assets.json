@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/artur/.nuget/packages/": {}
+    "/home/oryon-artur/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/artur/Documentos/CSharp/csharp-language/02 - POO/ProjetoFinal/ProjetoFinal.csproj",
+      "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/ProjetoFinal.csproj",
       "projectName": "ProjetoFinal",
-      "projectPath": "/home/artur/Documentos/CSharp/csharp-language/02 - POO/ProjetoFinal/ProjetoFinal.csproj",
-      "packagesPath": "/home/artur/.nuget/packages/",
-      "outputPath": "/home/artur/Documentos/CSharp/csharp-language/02 - POO/ProjetoFinal/obj/",
+      "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/ProjetoFinal.csproj",
+      "packagesPath": "/home/oryon-artur/.nuget/packages/",
+      "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/artur/.nuget/NuGet/NuGet.Config"
+        "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoFinal
-build_property.ProjectDir = /home/artur/Documentos/CSharp/csharp-language/02 - POO/ProjetoFinal/
+build_property.ProjectDir = /home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

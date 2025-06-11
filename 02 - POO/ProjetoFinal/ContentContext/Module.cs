@@ -1,6 +1,6 @@
 namespace ProjetoFinal.ContentContext;
 
-public class Module{
+public class Module:Base{
     public Module(){
         this.Lectures = new List<Lecture>();
     }

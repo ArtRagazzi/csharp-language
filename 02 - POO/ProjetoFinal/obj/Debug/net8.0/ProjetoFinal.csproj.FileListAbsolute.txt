@@ -1,0 +1,15 @@
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/bin/Debug/net8.0/ProjetoFinal
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/bin/Debug/net8.0/ProjetoFinal.deps.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/bin/Debug/net8.0/ProjetoFinal.runtimeconfig.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/bin/Debug/net8.0/ProjetoFinal.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/bin/Debug/net8.0/ProjetoFinal.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.AssemblyInfoInputs.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.AssemblyInfo.cs
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.sourcelink.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/refint/ProjetoFinal.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ProjetoFinal.genruntimeconfig.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/02 - POO/ProjetoFinal/obj/Debug/net8.0/ref/ProjetoFinal.dll
