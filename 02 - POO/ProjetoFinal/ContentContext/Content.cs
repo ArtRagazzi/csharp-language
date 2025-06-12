@@ -1,4 +1,5 @@
 namespace ProjetoFinal.ContentContext;
+using ProjetoFinal.SheredContext;
 
 public abstract class Content:Base{
     public Content(string title, string url){

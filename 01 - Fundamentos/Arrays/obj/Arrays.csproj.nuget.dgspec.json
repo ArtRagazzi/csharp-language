@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/artur/Documentos/CSharp/csharp-language/Arrays/Arrays.csproj": {}
+    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Arrays/Arrays.csproj": {}
   },
   "projects": {
-    "/home/artur/Documentos/CSharp/csharp-language/Arrays/Arrays.csproj": {
+    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Arrays/Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/artur/Documentos/CSharp/csharp-language/Arrays/Arrays.csproj",
+        "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Arrays/Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "/home/artur/Documentos/CSharp/csharp-language/Arrays/Arrays.csproj",
-        "packagesPath": "/home/artur/.nuget/packages/",
-        "outputPath": "/home/artur/Documentos/CSharp/csharp-language/Arrays/obj/",
+        "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Arrays/Arrays.csproj",
+        "packagesPath": "/home/oryon-artur/.nuget/packages/",
+        "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/artur/.nuget/NuGet/NuGet.Config"
+          "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

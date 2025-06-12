@@ -1,6 +1,6 @@
 using ProjetoFinal.NotificationContext;
 
-namespace ProjetoFinal.ContentContext{
+namespace ProjetoFinal.SharedContext{
     public class Base: Notifiable{
 
         public Base(){

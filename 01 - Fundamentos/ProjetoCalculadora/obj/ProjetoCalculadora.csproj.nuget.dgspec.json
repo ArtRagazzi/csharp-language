@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/artur/Documentos/CSharp/csharp-language/ProjetoCalculadora/ProjetoCalculadora.csproj": {}
+    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/ProjetoCalculadora/ProjetoCalculadora.csproj": {}
   },
   "projects": {
-    "/home/artur/Documentos/CSharp/csharp-language/ProjetoCalculadora/ProjetoCalculadora.csproj": {
+    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/ProjetoCalculadora/ProjetoCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/artur/Documentos/CSharp/csharp-language/ProjetoCalculadora/ProjetoCalculadora.csproj",
+        "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/ProjetoCalculadora/ProjetoCalculadora.csproj",
         "projectName": "ProjetoCalculadora",
-        "projectPath": "/home/artur/Documentos/CSharp/csharp-language/ProjetoCalculadora/ProjetoCalculadora.csproj",
-        "packagesPath": "/home/artur/.nuget/packages/",
-        "outputPath": "/home/artur/Documentos/CSharp/csharp-language/ProjetoCalculadora/obj/",
+        "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/ProjetoCalculadora/ProjetoCalculadora.csproj",
+        "packagesPath": "/home/oryon-artur/.nuget/packages/",
+        "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/ProjetoCalculadora/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/artur/.nuget/NuGet/NuGet.Config"
+          "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

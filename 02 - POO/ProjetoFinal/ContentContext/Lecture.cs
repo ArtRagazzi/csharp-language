@@ -1,4 +1,5 @@
 using ProjetoFinal.ContentContext.Enums;
+using ProjetoFinal.SharedContext;
 
 namespace ProjetoFinal.ContentContext;
 

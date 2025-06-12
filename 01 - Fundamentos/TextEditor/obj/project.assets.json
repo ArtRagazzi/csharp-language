@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/artur/.nuget/packages/": {}
+    "/home/oryon-artur/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/artur/Documentos/CSharp/csharp-language/TextEditor/TextEditor.csproj",
+      "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/TextEditor/TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "/home/artur/Documentos/CSharp/csharp-language/TextEditor/TextEditor.csproj",
-      "packagesPath": "/home/artur/.nuget/packages/",
-      "outputPath": "/home/artur/Documentos/CSharp/csharp-language/TextEditor/obj/",
+      "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/TextEditor/TextEditor.csproj",
+      "packagesPath": "/home/oryon-artur/.nuget/packages/",
+      "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/TextEditor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/artur/.nuget/NuGet/NuGet.Config"
+        "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

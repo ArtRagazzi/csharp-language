@@ -1,3 +1,5 @@
+using ProjetoFinal.SharedContext;
+
 namespace ProjetoFinal.ContentContext;
 
 public class Module:Base{

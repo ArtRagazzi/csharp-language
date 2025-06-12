@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/artur/Documentos/CSharp/csharp-language/Cronometro/Cronometro.csproj": {}
+    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Cronometro/Cronometro.csproj": {}
   },
   "projects": {
-    "/home/artur/Documentos/CSharp/csharp-language/Cronometro/Cronometro.csproj": {
+    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Cronometro/Cronometro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/artur/Documentos/CSharp/csharp-language/Cronometro/Cronometro.csproj",
+        "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Cronometro/Cronometro.csproj",
         "projectName": "Cronometro",
-        "projectPath": "/home/artur/Documentos/CSharp/csharp-language/Cronometro/Cronometro.csproj",
-        "packagesPath": "/home/artur/.nuget/packages/",
-        "outputPath": "/home/artur/Documentos/CSharp/csharp-language/Cronometro/obj/",
+        "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Cronometro/Cronometro.csproj",
+        "packagesPath": "/home/oryon-artur/.nuget/packages/",
+        "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Cronometro/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/artur/.nuget/NuGet/NuGet.Config"
+          "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

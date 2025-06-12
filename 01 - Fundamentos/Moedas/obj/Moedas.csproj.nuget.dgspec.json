@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/artur/Documentos/CSharp/csharp-language/Moedas/Moedas.csproj": {}
+    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Moedas/Moedas.csproj": {}
   },
   "projects": {
-    "/home/artur/Documentos/CSharp/csharp-language/Moedas/Moedas.csproj": {
+    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Moedas/Moedas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/artur/Documentos/CSharp/csharp-language/Moedas/Moedas.csproj",
+        "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Moedas/Moedas.csproj",
         "projectName": "Moedas",
-        "projectPath": "/home/artur/Documentos/CSharp/csharp-language/Moedas/Moedas.csproj",
-        "packagesPath": "/home/artur/.nuget/packages/",
-        "outputPath": "/home/artur/Documentos/CSharp/csharp-language/Moedas/obj/",
+        "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Moedas/Moedas.csproj",
+        "packagesPath": "/home/oryon-artur/.nuget/packages/",
+        "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/01 - Fundamentos/Moedas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/artur/.nuget/NuGet/NuGet.Config"
+          "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

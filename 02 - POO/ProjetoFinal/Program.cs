@@ -32,7 +32,7 @@ namespace ProjetoFinal
             var career2 = new Career("Desenvolvedor C#","desenvolvedor-csharp");
             var career3 = new Career("Desenvolvedor ASPNET","desenvolvedor-aspnet");
             
-            var careerItem1 = new CareerItem(3, "Começe por aqui...","",course1);
+            var careerItem1 = new CareerItem(3, "Começe por aqui...","",null);
             var careerItem2 = new CareerItem(2, "Fundamentos","",course2);
             var careerItem3 = new CareerItem(1, "Avançando","",course3);
             career1.Items.Add(careerItem1);
@@ -58,7 +58,10 @@ namespace ProjetoFinal
             foreach(var eachCareer in careers){
                 Console.WriteLine(eachCareer.Title);
                 foreach(var item in eachCareer.Items.OrderBy(x=>x.Order)){
-                    Console.WriteLine($"{item.Order} - {item.Title} -> {item.Course.Title}");
+                    Console.WriteLine($"{item.Order} - {item.Title} -> {item.Course?.Title}");
+                    foreach(var notification in item.Notifications){
+                        Console.WriteLine($"{notification.Property} - {notification.Message}");
+                    }
                 }
             }
 

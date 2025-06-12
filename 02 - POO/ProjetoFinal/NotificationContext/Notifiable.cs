@@ -2,15 +2,21 @@ namespace ProjetoFinal.NotificationContext{
 
     public abstract class Notifiable{
 
+        public Notifiable(){
+            this.Notifications = new List<Notification>();
+        }
+
         public List<Notification> Notifications {get;set;}
 
-        public void Add(Notification notification){
+        public void AddNotification(Notification notification){
             Notifications.Add(notification);
         }
 
 
-        public void AddRange(IEnumerable<Notification> notification){
+        public void AddNotifications(IEnumerable<Notification> notification){
             Notifications.AddRange(notification);
         }
+
+        public bool IsInvalid()=>Notifications.Any(  );
     }
 }
