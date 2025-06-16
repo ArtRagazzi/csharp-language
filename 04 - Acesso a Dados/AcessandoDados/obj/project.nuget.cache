@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AlmUFDbcgQE=",
+  "dgSpecHash": "eMnODx0dJak=",
   "success": true,
   "projectFilePath": "/home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/AcessandoDados.csproj",
   "expectedPackageFiles": [
     "/home/artur/.nuget/packages/azure.core/1.44.1/azure.core.1.44.1.nupkg.sha512",
     "/home/artur/.nuget/packages/azure.identity/1.13.2/azure.identity.1.13.2.nupkg.sha512",
+    "/home/artur/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
     "/home/artur/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/home/artur/.nuget/packages/microsoft.bcl.cryptography/8.0.0/microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
     "/home/artur/.nuget/packages/microsoft.data.sqlclient/6.1.0-preview1.25120.4/microsoft.data.sqlclient.6.1.0-preview1.25120.4.nupkg.sha512",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcessandoDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ecadb2200de16589ed82ef3eb8dc0ea7320e880")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6f6a6c1affba8f870a905553aa9a0c7279a4ea7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcessandoDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcessandoDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

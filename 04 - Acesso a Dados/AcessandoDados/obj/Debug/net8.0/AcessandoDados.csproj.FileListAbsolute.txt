@@ -63,3 +63,4 @@
 /home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/obj/Debug/net8.0/AcessandoDados.pdb
 /home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/obj/Debug/net8.0/AcessandoDados.genruntimeconfig.cache
 /home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/obj/Debug/net8.0/ref/AcessandoDados.dll
+/home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/bin/Debug/net8.0/Dapper.dll
