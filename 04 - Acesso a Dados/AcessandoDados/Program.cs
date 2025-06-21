@@ -33,12 +33,15 @@ namespace AcessandoDados{
             //Usando Dapper
             //Nao ficar gerando codigo dentro da Sessao aberta
             using (var conn = new SqlConnection(databaseConnection)){
+                Console.Clear();
                 //InsertCategory(conn);
                 //InsertManyCategory(conn);
                 //UpdateCategory(conn);
-                ListCategories(conn);
+                //ListCategories(conn);
                 //DeleteCategory(conn,new Guid("84614f7e-31ee-4f23-ba76-8273f368c8cf"));
-                ExecuteProcedure(conn);
+                //ExecuteProcedure(conn);
+                //ExecuteReadProcedure(conn);
+                ReadView(conn);
             }
             
         }
@@ -118,8 +121,31 @@ namespace AcessandoDados{
             var procedure = "spDeleteStudent";
             var par = new{ StudentId = "5404e368-1084-4289-b371-4a4851529863" };
             
-            var rows =connection.Execute(procedure, par, commandType: System.Data.CommandType.StoredProcedure);
+            var rows =connection.Execute(procedure , par, commandType: System.Data.CommandType.StoredProcedure);
             Console.WriteLine("Linhas afetadas: "+rows);
+        }
+        
+        static void ExecuteReadProcedure(SqlConnection connection){
+            var procedure = "spGetCourseByCategory";
+            var parm = new{ CategoryId = "09ce0b7b-cfca-497b-92c0-3290ad9d5142" };
+            
+            var courses = connection.Query(
+                procedure, 
+                parm,
+                commandType: System.Data.CommandType.StoredProcedure);
+
+            foreach (var item in courses){
+                Console.WriteLine($"{item.Id} - {item.Title}");
+            }
+        }
+
+        static void ReadView(SqlConnection connection){
+            var sql = "SELECT * FROM vwCourse";
+         
+            var courses = connection.Query(sql);
+            foreach (var item in courses){
+                Console.WriteLine($"{item.Id} - {item.Title}");
+            }
         }
     }
 }
