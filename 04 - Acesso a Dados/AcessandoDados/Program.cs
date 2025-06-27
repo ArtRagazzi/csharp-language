@@ -43,7 +43,11 @@ namespace AcessandoDados{
                 //ExecuteReadProcedure(conn);
                 //ReadView(conn);
                 //OneToOne(conn);
-                OneToMany(conn);
+                //OneToMany(conn);
+                //QueryMultiple(conn);
+                //SelectIn(conn);
+                //Like(conn,"api");
+                Transaction(conn);
             }
             
         }
@@ -193,6 +197,75 @@ namespace AcessandoDados{
                 foreach (var cItems in career.Items){
                     Console.WriteLine($"- {cItems.Title}");
                 }
+            }
+        }
+
+        static void QueryMultiple(SqlConnection connection){
+            var query = "SELECT * FROM Category; SELECT * FROM Course";
+            using (var multi = connection.QueryMultiple(query)){
+                var categories = multi.Read<Category>();
+                var courses = multi.Read<Course>();
+
+                foreach (var item in categories ){
+                    Console.WriteLine(item.Title);
+                }
+
+                foreach (var item in courses){
+                    Console.WriteLine(item.Title);
+
+                }
+            }
+        }
+
+        static void SelectIn(SqlConnection connection){
+            var query = @"SELECT top 10 * from Career
+                           WHERE Id IN @Id";
+
+            var items = connection.Query<Career>(query, new{
+                Id = new[]{
+                    "4327ac7e-963b-4893-9f31-9a3b28a4e72b",
+                    "01ae8a85-b4e8-4194-a0f1-1c6190af54cb"
+                }
+            });
+
+            foreach (var item in items){
+                Console.WriteLine(item.Title);
+            }
+        }
+        
+        static void Like(SqlConnection connection, string term){
+            var query = @"SELECT * FROM Course
+                           WHERE Title LIKE @Exp";
+
+            var items = connection.Query<Course>(query, new{
+                Exp = $"%{term}%"
+            });
+
+            foreach (var item in items){
+                Console.WriteLine(item.Title);
+            }
+        }
+
+
+        static void Transaction(SqlConnection connection){
+            var categoryToInsert = new Category("Minha categoria nao quero", "nao", 6, "Numquero",
+                "Categoria destinada a serviços da Numnum",false);
+
+            var insertSQL = "INSERT INTO Category(Id, Title, Url, [Order], Summary, Description, Featured) VALUES (@id, @title, @url, @order, @summary, @description, @featured)";
+            connection.Open();
+            using (var transaction = connection.BeginTransaction()){
+                var rows = //Realizando Insert
+                    connection.Execute(insertSQL, new{
+                        id = categoryToInsert.Id,
+                        title = categoryToInsert.Title,
+                        url = categoryToInsert.Url,
+                        order = categoryToInsert.Order,
+                        summary = categoryToInsert.Summary,
+                        description = categoryToInsert.Description,
+                        featured = categoryToInsert.Featured
+                    },transaction);
+                transaction.Commit();
+                //transaction.Rollback();
             }
         }
     }

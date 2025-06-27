@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/AcessandoDados.csproj": {}
+    "C:\\Users\\Artur Ragazzi\\Documents\\Csharp\\csharp-language\\04 - Acesso a Dados\\AcessandoDados\\AcessandoDados.csproj": {}
   },
   "projects": {
-    "/home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/AcessandoDados.csproj": {
+    "C:\\Users\\Artur Ragazzi\\Documents\\Csharp\\csharp-language\\04 - Acesso a Dados\\AcessandoDados\\AcessandoDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/AcessandoDados.csproj",
+        "projectUniqueName": "C:\\Users\\Artur Ragazzi\\Documents\\Csharp\\csharp-language\\04 - Acesso a Dados\\AcessandoDados\\AcessandoDados.csproj",
         "projectName": "AcessandoDados",
-        "projectPath": "/home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/AcessandoDados.csproj",
-        "packagesPath": "/home/artur/.nuget/packages/",
-        "outputPath": "/home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/obj/",
+        "projectPath": "C:\\Users\\Artur Ragazzi\\Documents\\Csharp\\csharp-language\\04 - Acesso a Dados\\AcessandoDados\\AcessandoDados.csproj",
+        "packagesPath": "C:\\Users\\Artur Ragazzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artur Ragazzi\\Documents\\Csharp\\csharp-language\\04 - Acesso a Dados\\AcessandoDados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/artur/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Artur Ragazzi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

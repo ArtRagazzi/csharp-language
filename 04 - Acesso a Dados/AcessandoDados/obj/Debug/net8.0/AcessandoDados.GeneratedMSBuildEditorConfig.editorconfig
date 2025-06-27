@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AcessandoDados
-build_property.ProjectDir = /home/artur/Documentos/CSharp/csharp-language/04 - Acesso a Dados/AcessandoDados/
+build_property.ProjectDir = C:\Users\Artur Ragazzi\Documents\Csharp\csharp-language\04 - Acesso a Dados\AcessandoDados\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
