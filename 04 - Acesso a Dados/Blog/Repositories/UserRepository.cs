@@ -1,43 +1,46 @@
 using Blog.Models;
-using Dapper.Contrib.Extensions;
+using Dapper;
 using Microsoft.Data.SqlClient;
 
 namespace Blog.Repositories;
 
-public class UserRepository{
-
+public class UserRepository : Repository<User>{
     private readonly SqlConnection _connection;
 
-
-    public UserRepository(SqlConnection connection){
+    public UserRepository(SqlConnection connection):base(connection){
         this._connection = connection;
     }
+
+    public List<User> GetWithRoles(){
+        var query = @"
+                    SELECT 
+                        [User].*,
+                        [Role].*
+                    FROM 
+                        [User]
+                    LEFT JOIN UserRole 
+                        ON UserRole.UserId = [User].Id
+                    LEFT JOIN Role
+                        ON UserRole.RoleId = Role.Id";
+        
+        var users = new List<User>();
+        //Recebe um Usuario e um Role, e o Resultado tem quer ser um User(TIPO QUERY)
+        var items = _connection.Query<User,Role,User>(query, (user, role) => {
+            var usr = users.FirstOrDefault(x => x.Id == user.Id);
+            if (usr == null){
+                usr = user;
+                if (role != null){
+                    usr.Roles.Add(role);
+                }
+                users.Add(usr);
+            }
+            else{
+                usr.Roles.Add(role);
+            }
+            return user;
+        }, splitOn: "Id");
+
+        return users;
+    }
     
-    public List<User> GetUsers(){
-        return _connection.GetAll<User>().ToList();
-    }
-
-    User GetUser(int id){
-        return _connection.Get<User>(id);
-    }
-
-    void InsertUser(User user){
-        _connection.Insert(user);
-    }
-
-    void UpdateUser(User user, int id){
-        user.Id = id; // Define o ID Corretamente antes de atualizar
-        _connection.Update(user);
-    }
-
-    void DeleteUser(int id){
-        var user = _connection.Get<User>(id);
-        _connection.Delete<User>(user);
-    }
-    //Overload (Sobrecarga)
-    void DeleteUser(User user){
-        if (user.Id != 0){
-            DeleteUser(user.Id);
-        }
-    }
 }

@@ -14,16 +14,17 @@ namespace Blog{
             var connection = new SqlConnection(CONNECTION_STRING);
             connection.Open();
             var userRepository = new UserRepository(connection);
-            var roleRepository = new RoleRepository(connection);
-            
-            
-            
-            foreach (var user in userRepository.GetUsers()){
+            var roleRepository = new Repository<Role>(connection);
+
+
+
+
+            var users = userRepository.GetWithRoles();
+            foreach (var user in users){
                 Console.WriteLine(user);
-            }
-            
-            foreach (var role in roleRepository.GetRoles()){
-                Console.WriteLine(role);
+                foreach (var role in user.Roles){
+                    Console.WriteLine($" - {role.Name}");
+                }
             }
             
             connection.Close();
