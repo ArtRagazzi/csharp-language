@@ -42,6 +42,9 @@ namespace Blog{
 
 
             switch (option){
+                case 1:
+                    MenuUserScreen.Load();
+                    break;
                 case 4:
                     MenuTagScreen.Load();
                     break;
