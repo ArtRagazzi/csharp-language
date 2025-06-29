@@ -17,10 +17,7 @@ public class ListCategoriesScreen{
         var repository = new Repository<Category>(Database.Connection);
         var categories = repository.GetAll();
         foreach (var category in categories){
-            Console.WriteLine($"{category.Id} {category.Name} ({category.Slug})");
-            foreach (var post in category.Posts){
-                Console.WriteLine($"{post.Title}");
-            }
+            Console.WriteLine($"{category.Id} {category.Name} ({category.Slug})\n - Quantidade de Posts: {category.Posts.Count}");
         }
     }
 }

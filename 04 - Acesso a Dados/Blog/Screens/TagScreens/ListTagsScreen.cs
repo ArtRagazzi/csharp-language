@@ -18,7 +18,6 @@ public class ListTagsScreen{
         var tags = repository.GetAll();
         foreach (var tag in tags){
             Console.WriteLine($"{tag.Id} {tag.Name} ({tag.Slug})");
-            
         }
     }
 }

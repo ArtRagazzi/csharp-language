@@ -3,6 +3,7 @@ using System.Collections;
 using Blog.Models;
 using Blog.Repositories;
 using Blog.Screens.TagScreens;
+using Blog.Screens.UserRoleScreens;
 using Dapper.Contrib.Extensions;
 using Microsoft.Data.SqlClient;
 
@@ -33,9 +34,9 @@ namespace Blog{
             Console.WriteLine("2 - Gestão de Perfil");
             Console.WriteLine("3 - Gestão de Categorias");
             Console.WriteLine("4 - Gestão de Tags");
-            Console.WriteLine("5 - Vincular perfil/usuario");
-            Console.WriteLine("6 - Vincular post/tag");
-            Console.WriteLine("7 - Relatórios");
+            Console.WriteLine("5 - Gestão de Posts");
+            Console.WriteLine("6 - Vincular perfil/usuario");
+            Console.WriteLine("7 - Vincular post/tag");
             Console.WriteLine();
             Console.WriteLine();
             var option = short.Parse(Console.ReadLine());
@@ -53,6 +54,12 @@ namespace Blog{
                     break;
                 case 4:
                     MenuTagScreen.Load();
+                    break;
+                case 5:
+                    MenuPostScreen.Load();
+                    break;
+                case 6:
+                    MenuUserRoleScreen.Load();
                     break;
                 default: Load(); break;
             }
