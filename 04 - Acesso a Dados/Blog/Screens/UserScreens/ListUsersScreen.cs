@@ -17,7 +17,7 @@ public class ListUsersScreen{
         var repository = new UserRepository(Database.Connection);
         var users = repository.GetWithRoles();
         foreach (var user in users){
-            Console.WriteLine($"{user.Name} : {user.Email} : {user.Slug}");
+            Console.WriteLine($"{user.Id} - {user.Name} : {user.Email} : {user.Slug}");
             foreach (var role in user.Roles){
                 Console.WriteLine($" - {role.Name} : {role.Slug}");
             }
