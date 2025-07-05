@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BlogMod2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FluentMapping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+003473ec0f7279662a987a22f2361daa544268bc")]
-[assembly: System.Reflection.AssemblyProductAttribute("BlogMod2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BlogMod2")]
+[assembly: System.Reflection.AssemblyProductAttribute("FluentMapping")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FluentMapping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
