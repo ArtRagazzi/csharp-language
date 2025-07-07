@@ -27,8 +27,8 @@ public class PostMap : IEntityTypeConfiguration<Post>{
             .IsRequired()
             .HasColumnName("LastUpdateDate") // DATETIME NOT NULL DEFAULT(GETDATE())
             .HasColumnType("SMALLDATETIME")
-            //.HasDefaultValueSql("GETDATE()") // Sera gerado pela função do SQL
-            .HasDefaultValue(DateTime.Now.ToUniversalTime()); // Sera gerado pelo .C#
+            .HasDefaultValueSql("GETDATE()"); // Sera gerado pela função do SQL
+            //.HasDefaultValue(DateTime.Now.ToUniversalTime()); // Sera gerado pelo .C#
         
         builder.Property(x => x.Slug)
             .IsRequired()// Not NULL

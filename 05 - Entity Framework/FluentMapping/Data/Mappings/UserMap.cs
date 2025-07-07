@@ -31,6 +31,8 @@ public class UserMap : IEntityTypeConfiguration<User>{
             .HasColumnName("Slug")
             .HasColumnType("VARCHAR");
 
+        builder.Property(x => x.Github);
+
         //Fazer para os demais atributos
         
         
