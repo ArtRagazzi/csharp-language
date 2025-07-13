@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlogCrudEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcf98de40827372b78aa0e069009bc2280582922")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee1c499ee1d503162e094992496c64164ec7accd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlogCrudEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlogCrudEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
