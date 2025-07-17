@@ -1,8 +1,11 @@
 using Blog.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 
 namespace Blog.Controllers;
+
+
 
 [ApiController]
 public class AccountController:ControllerBase{
@@ -13,6 +16,7 @@ public class AccountController:ControllerBase{
     //     
     // } OUUU
 
+    
     [HttpPost("v1/login")]
     //ASSIM
     public IActionResult Login([FromServices] TokenService tokenService){
@@ -20,6 +24,25 @@ public class AccountController:ControllerBase{
         
         return Ok(token);
     }
+
+
+    [Authorize(Roles = "user")]
+    [HttpGet("v1/user")]
+    public IActionResult GetUser(){
+        return Ok(User.Identity.Name);
+    }
     
+    [Authorize(Roles = "author")]
+    [Authorize(Roles = "admin")]
+    [HttpGet("v1/author")]
+    public IActionResult GetAuthor(){
+        return Ok(User.Identity.Name);
+    }
+    
+    [Authorize(Roles = "admin")]
+    [HttpGet("v1/admin")]
+    public IActionResult GetAdmin(){
+        return Ok(User.Identity.Name);
+    }
     
 }
