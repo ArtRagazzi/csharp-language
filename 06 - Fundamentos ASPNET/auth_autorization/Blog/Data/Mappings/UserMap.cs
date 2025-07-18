@@ -37,6 +37,23 @@ namespace Blog.Data.Mappings
                 .HasColumnName("Slug")
                 .HasColumnType("VARCHAR")
                 .HasMaxLength(80);
+            
+            builder.Property(x=> x.Email)
+                .IsRequired()
+                .HasColumnName("Email")
+                .HasColumnType("NVARCHAR")
+                .HasMaxLength(160);
+
+            builder.Property(x => x.Bio)
+                .IsRequired(false);
+            
+            builder.Property(x => x.Image)
+                .IsRequired(false);
+
+            builder.Property(x => x.PasswordHash).IsRequired()
+                .HasColumnName("PasswordHash")
+                .HasColumnType("VARCHAR")
+                .HasMaxLength(255);
 
             // Índices
             builder
