@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
@@ -28,7 +29,7 @@ app.MapPost("/login", (User model)=>{
         });
     }
 
-    var token = TokenService.GenerateToken(model, builder.Configuration["JwtSettings:SecretKey"]);
+    var token = TokenService.GenerateToken(user, builder.Configuration["JwtSettings:SecretKey"]);
     user.Password = "";
 
     return Results.Ok(new {
@@ -36,6 +37,22 @@ app.MapPost("/login", (User model)=>{
         token = token
     });
 });
+
+app.MapGet("anonymous", () =>
+{
+    Results.Ok(new {message = "Qualquer um pode acessar sem Authenticação"});
+}).AllowAnonymous();
+
+app.MapGet("authenticated", (ClaimsPrincipal user) =>
+{
+    Results.Ok(new {message = $"Somente Usuarios autenticados podem acessar!\nUser logado:{user.Identity.Name}"});
+}).RequireAuthorization();
+    
+
+app.MapGet("authenticated-manager", (ClaimsPrincipal user) =>
+{
+    Results.Ok(new {message = $"Somente Usuarios autenticados com role manager podem acessar!\nUser logado:{user.Identity.Name}"});
+}).RequireAuthorization("Admin");
 
 
 app.Run();

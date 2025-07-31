@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/Projetos/MinimalApiAuth/MinimalApiAuth.csproj": {}
+    "/home/artur/Documentos/CSharp/csharp-language/Projetos/MinimalApiAuth/MinimalApiAuth.csproj": {}
   },
   "projects": {
-    "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/Projetos/MinimalApiAuth/MinimalApiAuth.csproj": {
+    "/home/artur/Documentos/CSharp/csharp-language/Projetos/MinimalApiAuth/MinimalApiAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/Projetos/MinimalApiAuth/MinimalApiAuth.csproj",
+        "projectUniqueName": "/home/artur/Documentos/CSharp/csharp-language/Projetos/MinimalApiAuth/MinimalApiAuth.csproj",
         "projectName": "MinimalApiAuth",
-        "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/Projetos/MinimalApiAuth/MinimalApiAuth.csproj",
-        "packagesPath": "/home/oryon-artur/.nuget/packages/",
-        "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/Projetos/MinimalApiAuth/obj/",
+        "projectPath": "/home/artur/Documentos/CSharp/csharp-language/Projetos/MinimalApiAuth/MinimalApiAuth.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/artur/Documentos/CSharp/csharp-language/Projetos/MinimalApiAuth/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
