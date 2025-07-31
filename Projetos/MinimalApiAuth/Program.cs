@@ -92,7 +92,14 @@ void JwtConfig(WebApplicationBuilder builder)
             ValidateIssuer = false,
 
             // Desativa a validação do público (audience)
-            ValidateAudience = false
+            ValidateAudience = false,
+            
+            // Bloqueia apos acesso apos expirar o token
+            ValidateLifetime = true,
+            
+            //Tolerancia de atraso (Default = 5 Min)
+            ClockSkew = TimeSpan.Zero // sem tolerância para atraso
+
         };
     });
 }
