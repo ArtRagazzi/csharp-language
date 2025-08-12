@@ -1,0 +1,12 @@
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/bin/Debug/net8.0/PaymentContext.Shared.deps.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/bin/Debug/net8.0/PaymentContext.Shared.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/bin/Debug/net8.0/PaymentContext.Shared.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.AssemblyInfo.cs
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.sourcelink.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/refint/PaymentContext.Shared.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net8.0/ref/PaymentContext.Shared.dll

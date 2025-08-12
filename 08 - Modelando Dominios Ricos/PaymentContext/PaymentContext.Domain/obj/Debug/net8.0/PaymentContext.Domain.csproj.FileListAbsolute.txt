@@ -1,0 +1,16 @@
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Domain.deps.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Domain.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Domain.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.AssemblyInfo.cs
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.sourcelink.json
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/refint/PaymentContext.Domain.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/ref/PaymentContext.Domain.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Shared.dll
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Shared.pdb
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.AssemblyReference.cache
+/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.CopyComplete
