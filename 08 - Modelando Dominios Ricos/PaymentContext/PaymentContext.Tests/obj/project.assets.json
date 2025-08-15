@@ -1104,19 +1104,24 @@
     ]
   },
   "packageFolders": {
-    "/home/oryon-artur/.nuget/packages/": {}
+    "C:\\Users\\Artur O\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Artur O\\Documents\\csharp-language\\08 - Modelando Dominios Ricos\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "projectName": "PaymentContext.Tests",
-      "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
-      "packagesPath": "/home/oryon-artur/.nuget/packages/",
-      "outputPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Tests/obj/",
+      "projectPath": "C:\\Users\\Artur O\\Documents\\csharp-language\\08 - Modelando Dominios Ricos\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "packagesPath": "C:\\Users\\Artur O\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Artur O\\Documents\\csharp-language\\08 - Modelando Dominios Ricos\\PaymentContext\\PaymentContext.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/oryon-artur/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Artur O\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1128,11 +1133,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
-              "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
+            "C:\\Users\\Artur O\\Documents\\csharp-language\\08 - Modelando Dominios Ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+              "projectPath": "C:\\Users\\Artur O\\Documents\\csharp-language\\08 - Modelando Dominios Ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
             },
-            "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-              "projectPath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+            "C:\\Users\\Artur O\\Documents\\csharp-language\\08 - Modelando Dominios Ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Users\\Artur O\\Documents\\csharp-language\\08 - Modelando Dominios Ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }
@@ -1141,7 +1146,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1175,12 +1186,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.19, 8.0.19]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.19, 8.0.19]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.19, 8.0.19]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Artur O\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

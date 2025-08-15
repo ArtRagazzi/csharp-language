@@ -2,11 +2,40 @@ namespace PaymentContext.Domain.Entities;
 
 
 public class Subscription{
-    public bool Active {get; set;}
-    public DateTime CreateDate {get; set;}
-    public DateTime LastUpdateDate {get; set;}
-    public DateTime? ExpireDate {get; set;}
+    
+    private IList<Payment> _payments;
+    public Subscription(DateTime? expireDate)
+    {
+        CreateDate = DateTime.Now;
+        LastUpdateDate = DateTime.Now;
+        ExpireDate = expireDate;
+        Active = true;
+        _payments = new List<Payment>();
+    }
+
+    public bool Active {get; private set;}
+    public DateTime CreateDate {get; private set;}
+    public DateTime LastUpdateDate {get; private set;}
+    public DateTime? ExpireDate {get; private set;}
 
 
-    public List<Payment> Payments { get; set; }
+    public IReadOnlyCollection<Payment> Payments { get; set; }
+
+    public void addPayment(Payment payment)
+    {
+        _payments.Add(payment);
+    }
+
+    public void ActivateSubscription()
+    {
+        this.Active = true;
+        this.LastUpdateDate = DateTime.Now;
+    }
+    
+    public void DeactivateSubscription()
+    {
+        this.Active = false;
+        this.LastUpdateDate = DateTime.Now;
+    }
+    
 }

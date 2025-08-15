@@ -16,7 +16,10 @@
       },
       "PaymentContext.Shared/1.0.0": {
         "runtime": {
-          "PaymentContext.Shared.dll": {}
+          "PaymentContext.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
