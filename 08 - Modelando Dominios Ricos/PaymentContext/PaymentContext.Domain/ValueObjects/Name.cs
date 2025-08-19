@@ -11,5 +11,9 @@ public class Name : ValueObject
     public Name (string firstname, string lastname){
         FirstName = firstname;
         LastName = lastname;
+
+        if(string.IsNullOrEmpty(FirstName)){
+            AddNotification("Nome Invalido");
+        }
     }
 }

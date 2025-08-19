@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J0JSfnAaD5AMAXcBgcNylDwkV30IUCOzOa0JQtb23HQ9DQ1klSEGYurDxJu3nuWK6T+MTU43Q2zbi9243L9YlQ==",
+  "dgSpecHash": "u/ggVgHA1lrubJavzJfabDiCq1Qisg72ZhkMCX9X9P+zu8wvOAmMENo8/qogRyzXcprrTc52B7RQ08AyQhcA7A==",
   "success": true,
   "projectFilePath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/oryon-artur/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
