@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ksYdd2jipW0=",
+  "dgSpecHash": "J0JSfnAaD5AMAXcBgcNylDwkV30IUCOzOa0JQtb23HQ9DQ1klSEGYurDxJu3nuWK6T+MTU43Q2zbi9243L9YlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Artur O\\Documents\\csharp-language\\08 - Modelando Dominios Ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Artur O\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
-    "C:\\Users\\Artur O\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
-    "C:\\Users\\Artur O\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/oryon-artur/Documentos/CSharpRepo/csharp-language/08 - Modelando Dominios Ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
