@@ -12,8 +12,19 @@ public class Name : ValueObject
         FirstName = firstname;
         LastName = lastname;
 
-        if(string.IsNullOrEmpty(FirstName)){
-            AddNotification("Nome Invalido");
+        if (!Validate())
+        {
+            AddNotification("Nome ou Sobrenome invalidos");
         }
+        
+    }
+
+    private bool Validate()
+    {
+        if (string.IsNullOrEmpty(FirstName) || string.IsNullOrEmpty(LastName))
+        {
+            return false;
+        }
+        return true;
     }
 }
