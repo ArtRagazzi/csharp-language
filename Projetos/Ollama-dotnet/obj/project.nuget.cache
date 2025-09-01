@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zTzQl1aMoT8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artur O\\Desktop\\Ollama-dotnet\\Ollama-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artur O\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.8.0\\microsoft.extensions.ai.abstractions.9.8.0.nupkg.sha512",
+    "C:\\Users\\Artur O\\.nuget\\packages\\ollamasharp\\5.3.6\\ollamasharp.5.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
